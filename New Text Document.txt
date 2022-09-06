@@ -1,0 +1,4 @@
+this is my new text file.
+it has some text.
+
+I've added to the end of the file
